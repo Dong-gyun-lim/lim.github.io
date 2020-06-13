@@ -1,11 +1,11 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: 4명의 얼간이들의 과제
+description: 우리는 사이버보안전공의 얼간이들임.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://lim.github.io" # the base hostname & protocol for your site
 
 pagination:
 
